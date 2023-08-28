@@ -1,4 +1,4 @@
-# ahtinarp-23
+# ahtinarp-2 alias Pranitha
 ## Adding new content to the README.md
 ### first time doing this experiment.
 **Hello Gitty**, *this is the name i assignmed to u*
